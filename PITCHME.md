@@ -40,8 +40,8 @@ It is intended for viewing only by the San Andreas State Park Rangers and other 
 
 Blaine County Mountain Rescue (BCMR) is a non-profit volunteer organisation. Our primary responsibilities are:
 
-* Conducting and assisting with Search & Rescue operations across the state.
-* Perform community outreach through regular patrols of Blaine County, providing emergency supplies, roadside repair, wilderness tours and a wide range of events.
+- Conducting and assisting with Search & Rescue operations across the state.
+- Perform community outreach through regular patrols of Blaine County, providing emergency supplies, roadside repair, wilderness tours and a wide range of events.
 
 ---
 
@@ -75,11 +75,11 @@ td {
 
 # Certifications
 
-* Advanced Off Road (AOR)
-* Water Borne (H2O)
-* AirBourne (Air)
-* Advanced Incident Commander (AIC)
-* Field Training Officer (FTO)
+- Advanced Off Road (AOR)
+- Water Borne (H2O)
+- AirBourne (Air)
+- Advanced Incident Commander (AIC)
+- Field Training Officer (FTO)
 
 ---
 
@@ -128,12 +128,12 @@ Medium term goals are those that we can realistically achieve using means alread
 
 Long term goals are those that would require construction or the introduction of new items into the city. It is not expected we will achieve many, or even most of these goals, but they are things we can aspire to.
 
-* Dedicated BCMR headquarters 
-* Northern boat dock
-* Check-in system for going on and off duty
-* Listed in DOJ or similar app for more visibility
-* Use of government issued-radios or shared channels while on duty
-* Tax exempt status for business/personal rescue vehicles
+- Dedicated BCMR headquarters 
+- Northern boat dock
+- Check-in system for going on and off duty
+- Listed in DOJ or similar app for more visibility
+- Use of government issued-radios or shared channels while on duty
+- Tax exempt status for business/personal rescue vehicles
 
 ---
 
@@ -145,4 +145,7 @@ We invite you to ask any questions now or in the future.
 
 # References
 
-- Construction Proposal - https://pages.qwilr.com/Lizard-Dix-Country-Hunting-Lodge-MCnus3ERXyUr
+- Standard Operating Procedures - https://docs.google.com/document/d/1z_ztz7jh4KQckHbSbrcRERPd95yMJFggkwgtpn2enuM/edit
+- Off Time Guidelines - https://docs.google.com/document/d/16tshMbzmhuRKjc7LOKvfTuLTYveUJbT_813IzIzwyNM/edit#heading=h.x6cwj1sgk0t1
+- Member & Fleet Roster - https://docs.google.com/spreadsheets/d/1m539O0bX72J3jofi9qNcKepXmoaY86ZtSIAsmj-ZYU4/edit#gid=1886595189
+- Construction Request - https://docs.google.com/document/d/1eBIH9xWDBGNMI9S_lCLAEDxddWJYZYM5vSb_t3NS308/edit#heading=h.yq0esyrzu7s8
